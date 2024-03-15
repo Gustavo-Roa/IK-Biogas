@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIOGAS_", "BIOGAS_.csproj", "{12B49109-E8B5-47B4-8A50-F88422768E0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIOGAS_.Editor", "BIOGAS_.Editor.csproj", "{FC7E7DA8-8D4A-0F2A-A578-1F5234076930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B49109-E8B5-47B4-8A50-F88422768E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B49109-E8B5-47B4-8A50-F88422768E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B49109-E8B5-47B4-8A50-F88422768E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B49109-E8B5-47B4-8A50-F88422768E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC7E7DA8-8D4A-0F2A-A578-1F5234076930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7E7DA8-8D4A-0F2A-A578-1F5234076930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7E7DA8-8D4A-0F2A-A578-1F5234076930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7E7DA8-8D4A-0F2A-A578-1F5234076930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

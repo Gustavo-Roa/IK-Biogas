@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: 4c93a9831feb7cc449363df3a9367cf6
+timeCreated: 1509663632
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: farm-flat-icon-set-37346044_0
+    21300002: farm-flat-icon-set-37346044_1
+    21300004: farm-flat-icon-set-37346044_2
+    21300006: farm-flat-icon-set-37346044_3
+    21300008: farm-flat-icon-set-37346044_4
+    21300010: farm-flat-icon-set-37346044_5
+    21300012: farm-flat-icon-set-37346044_6
+    21300014: farm-flat-icon-set-37346044_7
+    21300016: farm-flat-icon-set-37346044_8
+    21300018: farm-flat-icon-set-37346044_9
+    21300020: farm-flat-icon-set-37346044_10
+    21300022: farm-flat-icon-set-37346044_11
+    21300024: farm-flat-icon-set-37346044_12
+    21300026: farm-flat-icon-set-37346044_13
+    21300028: farm-flat-icon-set-37346044_14
+    21300030: farm-flat-icon-set-37346044_15
+    21300032: farm-flat-icon-set-37346044_16
+    21300034: farm-flat-icon-set-37346044_17
+    21300036: farm-flat-icon-set-37346044_18
+    21300038: farm-flat-icon-set-37346044_19
+    21300040: farm-flat-icon-set-37346044_20
+    21300042: farm-flat-icon-set-37346044_21
+    21300044: farm-flat-icon-set-37346044_22
+    21300046: farm-flat-icon-set-37346044_23
+    21300048: farm-flat-icon-set-37346044_24
+    21300050: farm-flat-icon-set-37346044_25
+    21300052: farm-flat-icon-set-37346044_26
+    21300054: farm-flat-icon-set-37346044_27
+    21300056: farm-flat-icon-set-37346044_28
+    21300058: farm-flat-icon-set-37346044_29
+    21300060: farm-flat-icon-set-37346044_30
+    21300062: farm-flat-icon-set-37346044_31
+    21300064: farm-flat-icon-set-37346044_32
+    21300066: farm-flat-icon-set-37346044_33
+    21300068: farm-flat-icon-set-37346044_34
+    21300070: farm-flat-icon-set-37346044_35
+    21300072: farm-flat-icon-set-37346044_36
+    21300074: farm-flat-icon-set-37346044_37
+    21300076: farm-flat-icon-set-37346044_38
+    21300078: farm-flat-icon-set-37346044_39
+    21300080: farm-flat-icon-set-37346044_40
+    21300082: farm-flat-icon-set-37346044_41
+    21300084: farm-flat-icon-set-37346044_42
+    21300086: farm-flat-icon-set-37346044_43
+    21300088: farm-flat-icon-set-37346044_44
+    21300090: farm-flat-icon-set-37346044_45
+    21300092: farm-flat-icon-set-37346044_46
+    21300094: farm-flat-icon-set-37346044_47
+    21300096: farm-flat-icon-set-37346044_48
+    21300098: farm-flat-icon-set-37346044_49
+    21300100: farm-flat-icon-set-37346044_50
+    21300102: farm-flat-icon-set-37346044_51
+    21300104: farm-flat-icon-set-37346044_52
+    21300106: farm-flat-icon-set-37346044_53
+    21300108: farm-flat-icon-set-37346044_54
+    21300110: farm-flat-icon-set-37346044_55
+    21300112: farm-flat-icon-set-37346044_56
+    21300114: farm-flat-icon-set-37346044_57
+    21300116: farm-flat-icon-set-37346044_58
+    21300118: farm-flat-icon-set-37346044_59
+    21300120: farm-flat-icon-set-37346044_60
+    21300122: farm-flat-icon-set-37346044_61
+    21300124: farm-flat-icon-set-37346044_62
+    21300126: farm-flat-icon-set-37346044_63
+    21300128: farm-flat-icon-set-37346044_64
+    21300130: farm-flat-icon-set-37346044_65
+    21300132: farm-flat-icon-set-37346044_66
+    21300134: farm-flat-icon-set-37346044_67
+    21300136: farm-flat-icon-set-37346044_68
+    21300138: farm-flat-icon-set-37346044_69
+    21300140: farm-flat-icon-set-37346044_70
+    21300142: farm-flat-icon-set-37346044_71
+    21300144: farm-flat-icon-set-37346044_72
+    21300146: farm-flat-icon-set-37346044_73
+    21300148: farm-flat-icon-set-37346044_74
+    21300150: farm-flat-icon-set-37346044_75
+    21300152: farm-flat-icon-set-37346044_76
+    21300154: farm-flat-icon-set-37346044_77
+    21300156: farm-flat-icon-set-37346044_78
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 977
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 977
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 978
+        width: 240
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 976
+        width: 242
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_4
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 978
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_5
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 978
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 669
+        width: 243
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 671
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_8
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 670
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_9
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 668
+        width: 244
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 364
+        width: 243
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 360
+        width: 244
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_12
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 363
+        width: 243
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 57
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 56
+        width: 243
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: farm-flat-icon-set-37346044_15
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 57
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
